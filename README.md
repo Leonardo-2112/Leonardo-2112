@@ -14,9 +14,9 @@ Utilizo este GitHub como um espaço para acompanhar meu progresso, compartilhar 
 
 ## 🛠️ Tecnologias e estudos
 
-* 🐘 PHP (SENAC)
-* ☕ Java (FIAP)
-* 🐍 Python (FIAP)
+* 🐘 PHP
+* ☕ Java
+* 🐍 Python
 * 🌐 HTML5 & CSS3
 * 🎨 Bootstrap
 * 🧠 Lógica de Programação
