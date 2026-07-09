@@ -112,7 +112,7 @@ Sistema de gestão acadêmica desenvolvido durante o curso Técnico em TI.
 
 `C#` `Windows Forms` `PHP` `MySQL`
 
-➡️ **Repositório:** *(adicione o link aqui)*
+➡️ **Repositório:** *https://github.com/Leonardo-2112/FlowAcademy*
 
 ---
 
@@ -136,7 +136,7 @@ Solução de telemedicina via satélite voltada ao atendimento de pessoas em reg
 
 `Banco de Dados`
 
-➡️ **Repositório:** *(adicione o link aqui)*
+➡️ **Repositório:** *https://github.com/Leonardo-2112/OrbitalMed*
 
 ---
 
@@ -144,9 +144,8 @@ Solução de telemedicina via satélite voltada ao atendimento de pessoas em reg
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Leonardo-2112&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-2112&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-2112&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -186,6 +185,6 @@ Seja bem-vindo ao meu GitHub.
 
 Aqui compartilho minha evolução como desenvolvedor e os projetos que fazem parte da minha jornada na área de tecnologia.
 
-⭐ Fique à vontade para explorar os repositórios.
+Fique à vontade para explorar os repositórios.
 
 </div>
