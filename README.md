@@ -1,49 +1,191 @@
-# 👋 Olá, eu sou Leonardo!
+<div align="center">
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FIAP
-💻 Cursando também **Técnico em T.I** no SENAC
+# Olá! Eu sou Leonardo Afonço Sousa 👋
 
----
+### Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor de Software em Formação
 
-## 🚀 Sobre mim
+🎓 FIAP • 💻 Técnico em TI - Senac
 
-Sou apaixonado por tecnologia e estou em constante evolução na área de desenvolvimento.
-Utilizo este GitHub como um espaço para acompanhar meu progresso, compartilhar projetos acadêmicos e consolidar meu aprendizado.
+</div>
 
 ---
 
-## 🛠️ Tecnologias e estudos
+## 👨‍💻 Sobre mim
 
-* 🐘 PHP
-* ☕ Java
-* 🐍 Python
-* 🌐 HTML5 & CSS3
-* 🎨 Bootstrap
-* 🧠 Lógica de Programação
-* 🔧 Git & GitHub
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, e aluno do curso **Técnico em Tecnologia da Informação** no **Senac**.
 
----
+Tenho interesse em **Desenvolvimento de Software**, principalmente na construção de aplicações que unem boas práticas de programação, banco de dados e resolução de problemas.
 
-## 📂 O que você vai encontrar aqui
+Utilizo este GitHub para compartilhar minha evolução, projetos acadêmicos e aplicações desenvolvidas durante minha formação.
 
-* 📌 Projetos acadêmicos
-* 📌 Exercícios de lógica de programação
-* 📌 Anotações e materiais de aula
-* 📌 Pequenos projetos práticos para evolução contínua
+Atualmente estou aprofundando meus estudos em:
+
+- JavaScript
+- Node.js
+- APIs REST
+- PostgreSQL
+- React
 
 ---
 
-## 📈 Objetivo
+# 💻 Tecnologias
 
-Desenvolver minhas habilidades como programador, construir uma base sólida e evoluir constantemente na área de tecnologia.
+### Linguagens
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=cs"/>
+
+<img src="https://skillicons.dev/icons?i=php"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
+
+### Banco de Dados
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+### Ferramentas
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
 
 ---
 
-## 📫 Contato
+# 📚 Conhecimentos
 
-* LinkedIn: (www.linkedin.com/in/leonardoafoncosousa)
-* Email: (afoncoleonardo21@gmail.com)
+- Programação Orientada a Objetos
+- Desenvolvimento Web
+- Desenvolvimento Desktop
+- Engenharia de Software
+- Banco de Dados
+- Modelagem de Dados (MER e DER)
+- Levantamento de Requisitos
+- Testes de Software
+- Redes de Computadores
+- Windows Server
+- Linux
+- Git e GitHub
 
 ---
 
-⭐ *Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!*
+# 🚀 Projetos em Destaque
+
+## 🎓 FlowAcademy
+
+Sistema de gestão acadêmica desenvolvido durante o curso Técnico em TI.
+
+### Principais funcionalidades
+
+- Login por perfil de usuário
+- Controle acadêmico
+- Gestão financeira
+- Controle de matrículas
+- Integração com banco de dados
+- Aplicação Desktop e Web
+
+### Tecnologias
+
+`C#` `Windows Forms` `PHP` `MySQL`
+
+➡️ **Repositório:** *(adicione o link aqui)*
+
+---
+
+## 🛰️ OrbitalMed
+
+Projeto desenvolvido na Global Solution da FIAP.
+
+Solução de telemedicina via satélite voltada ao atendimento de pessoas em regiões remotas.
+
+### Tecnologias
+
+`Java`
+
+`Python`
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+`Banco de Dados`
+
+➡️ **Repositório:** *(adicione o link aqui)*
+
+---
+
+# 📈 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Leonardo-2112&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-2112&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-2112&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Contato
+
+<p>
+
+<a href="https://www.linkedin.com/in/leonardoafoncosousa">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:afoncoleonardo21@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Obrigado pela visita!
+
+Seja bem-vindo ao meu GitHub.
+
+Aqui compartilho minha evolução como desenvolvedor e os projetos que fazem parte da minha jornada na área de tecnologia.
+
+⭐ Fique à vontade para explorar os repositórios.
+
+</div>
