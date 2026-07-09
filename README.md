@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu sou Leonardo Afonço Sousa 👋
+# Olá! Eu sou Leonardo Afonço Sousa 
 
 ### Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor de Software em Formação
 
@@ -93,7 +93,7 @@ Atualmente estou aprofundando meus estudos em:
 
 ---
 
-# 🚀 Projetos em Destaque
+#  Projetos em Destaque
 
 ## 🎓 FlowAcademy
 
@@ -112,7 +112,7 @@ Sistema de gestão acadêmica desenvolvido durante o curso Técnico em TI.
 
 `C#` `Windows Forms` `PHP` `MySQL`
 
-➡️ **Repositório:** *https://github.com/Leonardo-2112/FlowAcademy*
+ **Repositório:** *https://github.com/Leonardo-2112/FlowAcademy*
 
 ---
 
@@ -136,32 +136,11 @@ Solução de telemedicina via satélite voltada ao atendimento de pessoas em reg
 
 `Banco de Dados`
 
-➡️ **Repositório:** *https://github.com/Leonardo-2112/OrbitalMed*
+ **Repositório:** *https://github.com/Leonardo-2112/OrbitalMed*
 
 ---
 
-# 📈 Estatísticas
-
-<div align="center">
-
-<img
-height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-2112&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-2112&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📫 Contato
+#  Contato
 
 <p>
 
